@@ -27,8 +27,7 @@ let ptb1 = (a,b) => {
     } else if (a != 0 && b == 0) {
         console.log(0);
     } else {
-        // Vi du la em muon ghi cho cai else if co nghiem la x = ket qua nhung ma e bi bao loi 
-        console.log("x ="(-b/a));
+        console.log((-b/a));
     }
 } 
 
